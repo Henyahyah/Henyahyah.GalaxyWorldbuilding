@@ -2,7 +2,6 @@
 	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"starSystem": "HenrySystem",
 	"name" : "Blue Ringed Planet",
-	"Spawn": true,
 	"Base": {
 		"groundSize": 600,
 		"surfaceSize": 600,
