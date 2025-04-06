@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
+    "canEnterViaWarpDrive": true,
+    "startHere": true,
+    "respawnHere": true,
+    "GlobalMusic": {
+        "travelAudio": "planets/assets/Travel Audio.mp3"
+    },
+    "freeMapAngle": true,
+    "enableTimeLoop": false,
+    "Vessel": {
+        "coords": {
+            "x": [0, 1, 2, 3, 4, 5],
+            "y": [5, 2],
+            "z": [3, 0, 1]
+        },
+        "vesselSpawn": {
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 8000
+            }
+        }
+    }
+}
